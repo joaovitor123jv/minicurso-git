@@ -1,1 +1,5 @@
 A gente então, começa a escrever um monte de abobrinha, esperando que o git identifique que deu bom
+
+Essa aqui é uma nova linha que estou escrevendo
+
+Estou escrevendo essa linha mais uma vez porque o git voltou a versão do arquivo
